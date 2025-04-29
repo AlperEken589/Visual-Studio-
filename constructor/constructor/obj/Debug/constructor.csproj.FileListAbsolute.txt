@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\constructor\constructor\bin\Debug\constructor.exe.config
+C:\Users\user\source\repos\constructor\constructor\bin\Debug\constructor.exe
+C:\Users\user\source\repos\constructor\constructor\bin\Debug\constructor.pdb
+C:\Users\user\source\repos\constructor\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\constructor\constructor\obj\Debug\constructor.exe
+C:\Users\user\source\repos\constructor\constructor\obj\Debug\constructor.pdb
+C:\Users\Asus\source\repos\constructor\constructor\bin\Debug\constructor.exe.config
+C:\Users\Asus\source\repos\constructor\constructor\bin\Debug\constructor.exe
+C:\Users\Asus\source\repos\constructor\constructor\bin\Debug\constructor.pdb
+C:\Users\Asus\source\repos\constructor\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\constructor\constructor\obj\Debug\constructor.exe
+C:\Users\Asus\source\repos\constructor\constructor\obj\Debug\constructor.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\nesnetaban\nesnetaban\bin\Debug\nesnetaban.exe.config
+C:\Users\user\source\repos\nesnetaban\nesnetaban\bin\Debug\nesnetaban.exe
+C:\Users\user\source\repos\nesnetaban\nesnetaban\bin\Debug\nesnetaban.pdb
+C:\Users\user\source\repos\nesnetaban\nesnetaban\obj\Debug\nesnetaban.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\nesnetaban\nesnetaban\obj\Debug\nesnetaban.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\nesnetaban\nesnetaban\obj\Debug\nesnetaban.exe
+C:\Users\user\source\repos\nesnetaban\nesnetaban\obj\Debug\nesnetaban.pdb

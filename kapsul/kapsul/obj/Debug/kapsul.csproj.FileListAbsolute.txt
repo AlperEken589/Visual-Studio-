@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\kapsul\kapsul\obj\Debug\kapsul.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\kapsul\kapsul\obj\Debug\kapsul.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kapsul\kapsul\bin\Debug\kapsul.exe.config
+C:\Users\user\source\repos\kapsul\kapsul\bin\Debug\kapsul.exe
+C:\Users\user\source\repos\kapsul\kapsul\bin\Debug\kapsul.pdb
+C:\Users\user\source\repos\kapsul\kapsul\obj\Debug\kapsul.exe
+C:\Users\user\source\repos\kapsul\kapsul\obj\Debug\kapsul.pdb
+C:\Users\Asus\source\repos\kapsul\kapsul\bin\Debug\kapsul.exe.config
+C:\Users\Asus\source\repos\kapsul\kapsul\bin\Debug\kapsul.exe
+C:\Users\Asus\source\repos\kapsul\kapsul\bin\Debug\kapsul.pdb
+C:\Users\Asus\source\repos\kapsul\kapsul\obj\Debug\kapsul.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\kapsul\kapsul\obj\Debug\kapsul.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\kapsul\kapsul\obj\Debug\kapsul.exe
+C:\Users\Asus\source\repos\kapsul\kapsul\obj\Debug\kapsul.pdb

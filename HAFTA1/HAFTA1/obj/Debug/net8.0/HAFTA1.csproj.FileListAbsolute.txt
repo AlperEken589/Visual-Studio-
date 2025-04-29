@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\bin\Debug\net8.0\HAFTA1.exe
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\bin\Debug\net8.0\HAFTA1.deps.json
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\bin\Debug\net8.0\HAFTA1.runtimeconfig.json
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\bin\Debug\net8.0\HAFTA1.dll
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\bin\Debug\net8.0\HAFTA1.pdb
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\HAFTA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\HAFTA1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\HAFTA1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\HAFTA1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\HAFTA1.dll
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\refint\HAFTA1.dll
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\HAFTA1.pdb
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\HAFTA1.genruntimeconfig.cache
+C:\Users\Asus\source\repos\HAFTA1\HAFTA1\obj\Debug\net8.0\ref\HAFTA1.dll
